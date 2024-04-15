@@ -1,0 +1,38 @@
+# Contiki-NG
+
+[![Github Actions](https://github.com/contiki-ng/contiki-ng/workflows/CI/badge.svg?branch=develop)](https://github.com/contiki-ng/contiki-ng/actions) [![Documentation Status](https://camo.githubusercontent.com/11ea34998c924b10619a11be57509236b5c223f8f2d140a8d08851db2b9476ea/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f636f6e74696b692d6e672f62616467652f3f76657273696f6e3d6d6173746572)](https://contiki-ng.readthedocs.io/en/master/?badge=master) [![license](https://camo.githubusercontent.com/119f3e432e910003b29ab9f8a45436e18ddf78b230b6a292764b0e8ee4a78949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d332d2d636c617573652532306273642d627269676874677265656e2e737667)](https://github.com/contiki-ng/contiki-ng/blob/master/LICENSE.md) [![Latest release](https://camo.githubusercontent.com/24f678af3f12e8e9075db8ba7296119088592b19765a5b6c9742b44c6ac6ca77/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f636f6e74696b692d6e672f636f6e74696b692d6e672e737667)](https://github.com/contiki-ng/contiki-ng/releases/latest) [![GitHub Release Date](https://camo.githubusercontent.com/5ceaeecb381f3d55a00d0eff9237a751372d120394da59cb6410dd39dd507f86/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652d646174652f636f6e74696b692d6e672f636f6e74696b692d6e672e737667)](https://github.com/contiki-ng/contiki-ng/releases/latest) [![Last commit](https://camo.githubusercontent.com/066ab3a465cc277ba04bb6e2dc3d6707105eeb7a28f93483ac3fba4517cd0cb7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f636f6e74696b692d6e672f636f6e74696b692d6e672e737667)](https://github.com/contiki-ng/contiki-ng/commit/HEAD)
+
+[![Stack Overflow Tag](https://camo.githubusercontent.com/d13e30f975a74f3276401b5cb58e10a9c02c2655df6fa217ed500711eeb8c437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537461636b2532304f766572666c6f772532307461672d436f6e74696b692d2d4e472d626c75653f6c6f676f3d737461636b6f766572666c6f77)](https://stackoverflow.com/questions/tagged/contiki-ng) [![Gitter](https://camo.githubusercontent.com/7cbf021c1c22b72cfd1547924f97a9d6fceca5909f5efc8a328eb374d6749d48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769747465722d436f6e74696b692d2d4e472d626c75653f6c6f676f3d676974746572)](https://gitter.im/contiki-ng) [![Twitter](https://camo.githubusercontent.com/08719fe0082c11ca318280455412424c5e07f7814c123df4b062489f7b314b98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d253430636f6e74696b695f5f6e672d626c75653f6c6f676f3d74776974746572)](https://twitter.com/contiki_ng)
+
+Contiki-NG is an open-source, cross-platform operating  system for Next-Generation IoT devices. It focuses on dependable (secure and reliable) low-power communication and standard protocols, such as  IPv6/6LoWPAN, 6TiSCH, RPL, and CoAP. Contiki-NG comes with extensive  documentation, tutorials, a roadmap, release cycle, and well-defined  development flow for smooth integration of community contributions.
+
+Unless explicitly stated otherwise, Contiki-NG sources are distributed under the terms of the [3-clause BSD license](https://github.com/contiki-ng/contiki-ng/blob/develop/LICENSE.md). This license gives everyone the right to use and distribute the code, either in binary or source code format, as long as the copyright license is retained in the source code.
+
+Contiki-NG started as a fork of the Contiki OS and retains some of its original features.
+
+
+
+## CVEs
+
+| CVE                                                          | Detail                                                       | Patch                                                        | POC                                                          | Type |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [2020-12140](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12140) | [Writeup](https://github.com/IoTS-P/fuzzware-experiments/blob/main/03-fuzzing-new-targets/bug-details/CVE-2020-12140-Contiki-NG-l2cap-frame-size.md) | [PR](https://github.com/contiki-ng/contiki-ng/pull/1662)     | [fuzzware](https://github.com/IoTS-P/fuzzware-experiments/blob/main/03-fuzzing-new-targets/contiki-ng/prebuilt_samples/CVE-2020-12140/POC) |      |
+| [2020-12141](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12141) | [Writeup](https://github.com/IoTS-P/fuzzware-experiments/blob/main/03-fuzzing-new-targets/bug-details/CVE-2020-12141-Contiki-NG-SNMP-string-decode.md) | [commit](https://github.com/contiki-ng/contiki-ng/commit/12c824386ab60de757de5001974d73b32e19ad71) | [fuzzware](https://github.com/IoTS-P/fuzzware-experiments/blob/main/03-fuzzing-new-targets/contiki-ng/prebuilt_samples/CVE-2020-12141/POC) |      |
+|                                                              |                                                              |                                                              |                                                              |      |
+
+## Getting Started
+
+Find out more:
+
+- GitHub repository: https://github.com/contiki-ng/contiki-ng
+- Documentation: https://docs.contiki-ng.org/
+- List of releases and changes: https://github.com/contiki-ng/contiki-ng/releases
+- Web site: http://contiki-ng.org
+
+Engage with the community:
+
+- Discussions on GitHub: https://github.com/contiki-ng/contiki-ng/discussions
+- Contiki-NG tag on Stack Overflow: https://stackoverflow.com/questions/tagged/contiki-ng
+- Gitter: https://gitter.im/contiki-ng
+- Twitter: https://twitter.com/contiki_ng
+
