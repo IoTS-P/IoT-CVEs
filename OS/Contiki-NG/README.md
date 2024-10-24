@@ -44,6 +44,7 @@ Contiki-NG started as a fork of the Contiki OS and retains some of its original 
 | [CVE-2021-32771](https://www.cve.org/CVERecord?id=CVE-2021-32771) | [github-security](https://github.com/contiki-ng/contiki-ng/security/advisories/GHSA-jqjf-v7v9-xp6w) |                                                              |                                                              | [CWE-120](https://cwe.mitre.org/data/definitions/120.html)   |
 | [CVE-2021-21410](https://www.cve.org/CVERecord?id=CVE-2021-21410) | [github-security](https://github.com/contiki-ng/contiki-ng/security/advisories/GHSA-hhwj-2p59-v8p9) |                                                              |                                                              | [CWE-125](https://cwe.mitre.org/data/definitions/125.html)   |
 | [CVE-2021-21282](https://www.cve.org/CVERecord?id=CVE-2021-21282) | [github-security](https://github.com/contiki-ng/contiki-ng/security/advisories/GHSA-6xf2-77gf-fgjx) |                                                              |                                                              | [CWE-120](https://cwe.mitre.org/data/definitions/120.html)   |
+| [CVE-2021-21281](https://www.cve.org/CVERecord?id=CVE-2021-21281) |                                                              |                                                              |                                                              | [CWE-120](https://cwe.mitre.org/data/definitions/120.html)   |
 
 ## Getting Started
 
