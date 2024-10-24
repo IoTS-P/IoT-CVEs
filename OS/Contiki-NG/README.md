@@ -51,6 +51,7 @@ Contiki-NG started as a fork of the Contiki OS and retains some of its original 
 | [CVE-2020-24336](https://www.cve.org/CVERecord?id=CVE-2020-24336) | [kb](https://www.kb.cert.org/vuls/id/815128)                 |                                                              |                                                              | [CWE-120](https://cwe.mitre.org/data/definitions/120.html)   |
 | [CVE-2020-24335](https://www.cve.org/CVERecord?id=CVE-2020-24335) | [github](https://github.com/adamdunkels/uip)                 |                                                              |                                                              | [CWE-125](https://cwe.mitre.org/data/definitions/125.html)   |
 | [CVE-2020-24334](https://www.cve.org/CVERecord?id=CVE-2020-24334) |                                                              |                                                              |                                                              | [CWE-125](https://cwe.mitre.org/data/definitions/125.html)   |
+| [CVE-2020-14937](https://www.cve.org/CVERecord?id=CVE-2020-14937) | [issue](https://github.com/contiki-ng/contiki-ng/issues/1354) |                                                              |                                                              | [CWE-125](https://cwe.mitre.org/data/definitions/125.html)	 [CWE-787](https://cwe.mitre.org/data/definitions/787.html) |
 
 ## Getting Started
 
