@@ -26,6 +26,7 @@ RIOT is developed by an international open source community which is independent
 | [2023-33974](https://www.cve.org/CVERecord?id=CVE-2023-33974) | [github-security](https://github.com/RIOT-OS/RIOT/security/advisories/GHSA-8m3w-mphf-wxm8) | [commit](https://github.com/RIOT-OS/RIOT/commit/31c6191f6196f1a05c9765cffeadba868e3b0723) | None | CWE-362 |
 | [2023-33975](https://www.cve.org/CVERecord?id=CVE-2023-33975) | [github-security](https://github.com/RIOT-OS/RIOT/security/advisories/GHSA-f6ff-g7mh-58q4) | [commit](https://github.com/RIOT-OS/RIOT/commit/1aeb90ee5555ae78b567a6365ae4ab71bfd1404b) | None | CWE-119 CWE-787 |
 | CVE-2021-41061 | https://github.com/RIOT-OS/RIOT/issues/16844 | none | none | CWE-330 |
+| CVE-2021-31664 | none | https://github.com/RIOT-OS/RIOT/pull/15345 | none | CWE-120 |
 
 [api-badge]: https://img.shields.io/badge/docs-API-informational.svg
 [api-link]: https://doc.riot-os.org/
