@@ -24,7 +24,7 @@ RIOT is developed by an international open source community which is independent
 | [2023-24826](https://www.cve.org/CVERecord?id=CVE-2023-24826) | [github-security](https://github.com/RIOT-OS/RIOT/security/advisories/GHSA-xfj4-9g7w-f4gh) | [commit](https://github.com/RIOT-OS/RIOT/commit/287f030af20e829469cdf740606148018a5a220d) | [hoedur](https://github.com/fuzzware-fuzzer/hoedur-experiments/tree/main/04-prev-unknown-vulns/results/bug-reproducers/hoedur/Hoedur/riot/CVE-2023-24826/new-Bug-CVE-2023-24826) | CWE-824 |
 | [2023-33973](https://www.cve.org/CVERecord?id=CVE-2023-33973) | [github-security](https://github.com/RIOT-OS/RIOT/security/advisories/GHSA-r2pv-3jqc-vh7w) | [commit](https://github.com/RIOT-OS/RIOT/commit/c9d7863e5664a169035038628029bb07e090c5ff) | None | CWE-476 |
 | [2023-33974](https://www.cve.org/CVERecord?id=CVE-2023-33974) | [github-security](https://github.com/RIOT-OS/RIOT/security/advisories/GHSA-8m3w-mphf-wxm8) | [commit](https://github.com/RIOT-OS/RIOT/commit/31c6191f6196f1a05c9765cffeadba868e3b0723) | None | CWE-362 |
-| [2023-33975](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33975) | [github-security](https://github.com/RIOT-OS/RIOT/security/advisories/GHSA-f6ff-g7mh-58q4) | [commit](https://github.com/RIOT-OS/RIOT/commit/1aeb90ee5555ae78b567a6365ae4ab71bfd1404b) | None | overflow write  |
+| [2023-33975](https://www.cve.org/CVERecord?id=CVE-2023-33975) | [github-security](https://github.com/RIOT-OS/RIOT/security/advisories/GHSA-f6ff-g7mh-58q4) | [commit](https://github.com/RIOT-OS/RIOT/commit/1aeb90ee5555ae78b567a6365ae4ab71bfd1404b) | None | CWE-119 CWE-787 |
 
 [api-badge]: https://img.shields.io/badge/docs-API-informational.svg
 [api-link]: https://doc.riot-os.org/
