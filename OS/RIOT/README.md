@@ -40,6 +40,7 @@ RIOT is developed by an international open source community which is independent
 | CVE-2019-16754 |  | [PR](https://github.com/RIOT-OS/RIOT/pull/12293) |  | CWE-476 |
 | CVE-2019-15702 | [issue](https://github.com/RIOT-OS/RIOT/issues/12086) |  |  | CWE-835 |
 | CVE-2019-15134 |  | [PR](https://github.com/RIOT-OS/RIOT/pull/12001) |  | CWE-401 |
+| CVE-2019-1000006 | [issue](https://github.com/RIOT-OS/RIOT/issues/10739) |  |  | CWE-787 |
 
 [api-badge]: https://img.shields.io/badge/docs-API-informational.svg
 [api-link]: https://doc.riot-os.org/
