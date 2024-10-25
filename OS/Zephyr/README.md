@@ -35,6 +35,7 @@ The Zephyr kernel supports multiple architectures, including ARM (Cortex-A, Cort
 | CVE-2024-6443                                                | [github-security](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-gg46-3rh2-v765) |                                                              |                                                              | CWE-125 CWE-787                                              |
 | CVE-2024-6442                                                | [github-security](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-m22j-ccg7-4v4h) |                                                              |                                                              | CWE-787                                                      |
 | CVE-2024-6259                                                | [github-security](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-p5j7-v26w-wmcp) |                                                              |                                                              | CWE-20 CWE-122                                               |
+| CVE-2024-6258                                                | [github-security](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-7833-fcpm-3ggm) |                                                              |                                                              | CWE-20 CWE-122 CWE-191                                       |
 
 ## Getting Started
 
