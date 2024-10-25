@@ -51,9 +51,9 @@ Espressif Systems, a company with headquarters in Shanghai, China made its debut
 
 Latest [ESP8266 SDK](https://github.com/espressif/ESP8266_RTOS_SDK) based on FreeRTOS, esp-idf style.
 
-| CVE                                                          | Detail                                                       | Version | Patch                                                        | POC  | Type |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ | ---- | ---- |
-| [2020-12638](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-12638) | [WPA2 Auth Mode Downgrade](https://lbsfilm.at/blog/wpa2-authenticationmode-downgrade-in-espressif-microprocessors) | <3.3    | [remove auth_changed event and fix wpa2 authmode threshold](https://github.com/espressif/esp-idf/commit/179292f9b3fe8fdbcccf0a9d2c0f50d394fddc10) |      |      |
+| CVE                                                          | Detail                                                       | Version | Patch                                                        | POC  | Type                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| [2020-12638](https://www.cve.org/CVERecord?id=CVE-2020-12638) | [WPA2 Auth Mode Downgrade](https://lbsfilm.at/blog/wpa2-authenticationmode-downgrade-in-espressif-microprocessors) | <3.3    | [remove auth_changed event and fix wpa2 authmode threshold](https://github.com/espressif/esp-idf/commit/179292f9b3fe8fdbcccf0a9d2c0f50d394fddc10) |      | [CWE-319](https://cwe.mitre.org/data/definitions/319.html)	 [CWE-287](https://cwe.mitre.org/data/definitions/287.html) |
 
 ### Arduino-ESP
 
