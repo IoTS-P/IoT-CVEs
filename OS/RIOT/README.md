@@ -40,7 +40,7 @@ RIOT is developed by an international open source community which is independent
 | [CVE-2019-16754](https://www.cve.org/CVERecord?id=CVE-2019-16754) |  | [PR](https://github.com/RIOT-OS/RIOT/pull/12293) |  | [CWE-476](https://cwe.mitre.org/data/definitions/476.html) |
 | [CVE-2019-15702](https://www.cve.org/CVERecord?id=CVE-2019-15702) | [issue](https://github.com/RIOT-OS/RIOT/issues/12086) |  |  | [CWE-835](https://cwe.mitre.org/data/definitions/835.html) |
 | [CVE-2019-15134](https://www.cve.org/CVERecord?id=CVE-2019-15134) |  | [PR](https://github.com/RIOT-OS/RIOT/pull/12001) |  | [CWE-401](https://cwe.mitre.org/data/definitions/401.html) |
-| [CVE-2019-1000006](https://www.cve.org/CVERecord?id=CVE-2019-1000006) | [issue](https://github.com/RIOT-OS/RIOT/issues/10739) |  |  | [CWE-787](https://cwe.mitre.org/data/definitions/787.html) |
+| [CVE-2019-1000006](https://www.cve.org/CVERecord?id=CVE-2019-1000006) | [issue](https://github.com/RIOT-OS/RIOT/issues/10739) | [PR](https://github.com/RIOT-OS/RIOT/pull/10740) |  | [CWE-787](https://cwe.mitre.org/data/definitions/787.html) |
 | [CVE-2017-8289](https://www.cve.org/CVERecord?id=CVE-2017-8289) | [issue](https://github.com/RIOT-OS/RIOT/issues/6840) | [PR](https://github.com/RIOT-OS/RIOT/pull/6961), [PR](https://github.com/RIOT-OS/RIOT/pull/6962) |  | [CWE-119](https://cwe.mitre.org/data/definitions/119.html) |
 
 [api-badge]: https://img.shields.io/badge/docs-API-informational.svg
