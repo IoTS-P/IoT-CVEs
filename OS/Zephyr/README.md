@@ -114,6 +114,7 @@ The Zephyr kernel supports multiple architectures, including ARM (Cortex-A, Cort
 | CVE-2020-10060                                               | [zprpject](https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2020-10060) |                                                              |                                                              | CWE-119                                                      |
 | CVE-2020-10059                                               | [zproject](https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2020-10059) |                                                              |                                                              | CWE-295                                                      |
 | CVE-2020-10058                                               | [zproject](https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2020-10058) |                                                              |                                                              | CWE-20                                                       |
+| CVE-2020-10028                                               | [zproject](https://docs.zephyrproject.org/latest/security/vulnerabilities.html#cve-2020-10028) |                                                              |                                                              | CWE-20                                                       |
 
 ## Getting Started
 
