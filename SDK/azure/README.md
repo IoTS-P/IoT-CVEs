@@ -13,3 +13,10 @@ Microsoft Azure Cloud Services
 | [2024-25110](https://www.cve.org/CVERecord?id=CVE-2024-25110) | [UAMQP use after free](https://github.com/Azure/azure-uamqp-c/security/advisories/GHSA-c646-4whf-r67v) | <2023-12-01 | [commit](https://github.com/Azure/azure-uamqp-c/commit/30865c9ccedaa32ddb036e87a8ebb52c3f18f695) |      | [CWE-94](https://cwe.mitre.org/data/definitions/94.html) |
 | [2024-21646]()                                               | [Remote Code Execution](https://github.com/Azure/azure-uamqp-c/security/advisories/GHSA-j29m-p99g-7hpv) | <2023-12-01 | [Commit](https://github.com/Azure/azure-uamqp-c/commit/12ddb3a31a5a97f55b06fa5d74c59a1d84ad78fe) |      | [CWE-94](https://cwe.mitre.org/data/definitions/94.html) |
 
+### USBX
+
+| CVE            | Detail                                                       | Version | Patch | POC  | Type                                                         |
+| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | ------------------------------------------------------------ |
+| CVE-2023-48698 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-grhp-f66q-x857) |         |       |      | [CWE-754](https://github.com/advisories?query=cwe%3A754) [CWE-825](https://github.com/advisories?query=cwe%3A825) |
+|                |                                                              |         |       |      |                                                              |
+
