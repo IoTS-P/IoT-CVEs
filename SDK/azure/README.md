@@ -30,10 +30,9 @@ Microsoft Azure Cloud Services
 
 ### ThreadX 
 
-| CVE            | Detail                                                       | Version | Patch | POC  | Type   |
-| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | ------ |
-| CVE-2023-48693 | [githubsecurity](https://github.com/eclipse-threadx/threadx/security/advisories/GHSA-p7w6-62rq-vrf9) |         |       |      | CWE-20 |
-|                |                                                              |         |       |      |        |
+| CVE                                                          | Detail                                                       | Version | Patch | POC  | Type                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ----- | ---- | ------------------------------------------------------ |
+| [CVE-2023-48693](https://www.cve.org/CVERecord?id=CVE-2023-48693) | [githubsecurity](https://github.com/eclipse-threadx/threadx/security/advisories/GHSA-p7w6-62rq-vrf9) |         |       |      | [CWE-20](https://github.com/advisories?query=cwe%3A20) |
 
 ### NetX Duo
 
