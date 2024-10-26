@@ -40,3 +40,10 @@ Microsoft Azure Cloud Services
 | CVE-2023-48316 | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-3cmf-r288-xhwq) |         |       |      | CWE-787 CWE-825 |
 | CVE-2023-48315 | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-rj6h-jjg2-7gf3) |         |       |      | CWE-787 CWE-825 |
 
+### filex
+
+| CVE            | Detail                                                       | Version | Patch | POC  | Type    |
+| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | ------- |
+| CVE-2022-39343 | [githubsecurity](https://github.com/azure-rtos/filex/security/advisories/GHSA-8jqf-wjhq-4w9f) |         |       |      | CWE-120 |
+|                |                                                              |         |       |      |         |
+
