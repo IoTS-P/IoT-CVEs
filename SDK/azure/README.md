@@ -15,18 +15,18 @@ Microsoft Azure Cloud Services
 
 ### USBX
 
-| CVE            | Detail                                                       | Version | Patch | POC  | Type                                                         |
-| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | ------------------------------------------------------------ |
-| CVE-2023-48698 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-grhp-f66q-x857) |         |       |      | [CWE-754](https://github.com/advisories?query=cwe%3A754) [CWE-825](https://github.com/advisories?query=cwe%3A825) |
-| CVE-2023-48697 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-p2p9-wp2q-wjv4) |         |       |      | CWE-476 CWE-825 CWE-787                                      |
-| CVE-2023-48696 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-h733-98hq-f884) |         |       |      | CWE-825 CWE-754                                              |
-| CVE-2023-48695 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-mwj9-rpph-v8wc) |         |       |      | CWE-787                                                      |
-| CVE-2023-48694 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-qjw8-7w86-44qj) |         |       |      | CWE-825 CWE-843                                              |
-| CVE-2022-39344 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-m9p8-xrp7-vvqp) |         |       |      | CWE-120                                                      |
-| CVE-2022-39293 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-gg76-h537-xq48) |         |       |      | CWE-191                                                      |
-| CVE-2022-36063 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-chpp-5fv9-6368) |         |       |      | CWE-121 CWE-191                                              |
-| CVE-2022-29246 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-hh5p-x584-j8hv) |         |       |      | CWE-120                                                      |
-| CVE-2022-29223 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-2qc5-385m-x862) |         |       |      | CWE-120                                                      |
+| CVE                                                          | Detail                                                       | Version | Patch | POC  | Type                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ----- | ---- | ------------------------------------------------------------ |
+| [CVE-2023-48698](https://www.cve.org/CVERecord?id=CVE-2023-48698) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-grhp-f66q-x857) |         |       |      | [CWE-754](https://github.com/advisories?query=cwe%3A754) [CWE-825](https://github.com/advisories?query=cwe%3A825) |
+| [CVE-2023-48697](https://www.cve.org/CVERecord?id=CVE-2023-48697) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-p2p9-wp2q-wjv4) |         |       |      | [CWE-476](https://github.com/advisories?query=cwe%3A476) [CWE-825](https://github.com/advisories?query=cwe%3A825) [CWE-787](https://github.com/advisories?query=cwe%3A787) |
+| [CVE-2023-48696](https://www.cve.org/CVERecord?id=CVE-2023-48696) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-h733-98hq-f884) |         |       |      | [CWE-825](https://github.com/advisories?query=cwe%3A825) [CWE-754](https://github.com/advisories?query=cwe%3A754) |
+| [CVE-2023-48695](https://www.cve.org/CVERecord?id=CVE-2023-48695) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-mwj9-rpph-v8wc) |         |       |      | [CWE-787](https://github.com/advisories?query=cwe%3A787)     |
+| [CVE-2023-48694](https://www.cve.org/CVERecord?id=CVE-2023-48694) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-qjw8-7w86-44qj) |         |       |      | [CWE-825](https://github.com/advisories?query=cwe%3A825) [CWE-843](https://github.com/advisories?query=cwe%3A843) |
+| [CVE-2022-39344](https://www.cve.org/CVERecord?id=CVE-2022-39344) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-m9p8-xrp7-vvqp) |         |       |      | [CWE-120](https://github.com/advisories?query=cwe%3A120)     |
+| [CVE-2022-39293](https://www.cve.org/CVERecord?id=CVE-2022-39293) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-gg76-h537-xq48) |         |       |      | [CWE-191](https://github.com/advisories?query=cwe%3A191)     |
+| [CVE-2022-36063](https://www.cve.org/CVERecord?id=CVE-2022-36063) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-chpp-5fv9-6368) |         |       |      | [CWE-121](https://github.com/advisories?query=cwe%3A121) [CWE-191](https://github.com/advisories?query=cwe%3A191) |
+| [CVE-2022-29246](https://www.cve.org/CVERecord?id=CVE-2022-29246) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-hh5p-x584-j8hv) |         |       |      | [CWE-120](https://github.com/advisories?query=cwe%3A120)     |
+| [CVE-2022-29223](https://www.cve.org/CVERecord?id=CVE-2022-29223) | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-2qc5-385m-x862) |         |       |      | [CWE-120](https://github.com/advisories?query=cwe%3A120)     |
 
 ### ThreadX 
 
