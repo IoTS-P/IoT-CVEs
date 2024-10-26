@@ -53,8 +53,8 @@ Microsoft Azure Cloud Services
 
 ### RTOS
 
-| CVE            | Detail                                                       | Version | Patch | POC  | Type |
-| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | ---- |
-| CVE-2021-42323 | [microsoft](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-42323) |         |       |      |      |
-|                |                                                              |         |       |      |      |
+| CVE            | Detail                                                       | Version | Patch | POC  | Type    |
+| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | ------- |
+| CVE-2021-42323 | [microsoft](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-42323) |         |       |      |         |
+| CVE-2021-42304 | [microsoft](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-42304) |         |       |      | CWE-269 |
 
