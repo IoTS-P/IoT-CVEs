@@ -25,6 +25,7 @@ Microsoft Azure Cloud Services
 | CVE-2022-39344 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-m9p8-xrp7-vvqp) |         |       |      | CWE-120                                                      |
 | CVE-2022-39293 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-gg76-h537-xq48) |         |       |      | CWE-191                                                      |
 | CVE-2022-36063 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-chpp-5fv9-6368) |         |       |      | CWE-121 CWE-191                                              |
+| CVE-2022-29246 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-hh5p-x584-j8hv) |         |       |      | CWE-120                                                      |
 
 ### ThreadX 
 
