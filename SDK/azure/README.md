@@ -36,12 +36,12 @@ Microsoft Azure Cloud Services
 
 ### NetX Duo
 
-| CVE            | Detail                                                       | Version | Patch | POC  | Type            |
-| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | --------------- |
-| CVE-2023-48692 | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-m2rx-243p-9w64) |         |       |      | CWE-787 CWE-825 |
-| CVE-2023-48691 | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-fwmg-rj6g-w99p) |         |       |      | CWE-787         |
-| CVE-2023-48316 | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-3cmf-r288-xhwq) |         |       |      | CWE-787 CWE-825 |
-| CVE-2023-48315 | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-rj6h-jjg2-7gf3) |         |       |      | CWE-787 CWE-825 |
+| CVE                                                          | Detail                                                       | Version | Patch | POC  | Type                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ----- | ---- | ------------------------------------------------------------ |
+| [CVE-2023-48692](https://www.cve.org/CVERecord?id=CVE-2023-48692) | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-m2rx-243p-9w64) |         |       |      | [CWE-787](https://github.com/advisories?query=cwe%3A787) [CWE-825](https://github.com/advisories?query=cwe%3A825) |
+| [CVE-2023-48691](https://www.cve.org/CVERecord?id=CVE-2023-48691) | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-fwmg-rj6g-w99p) |         |       |      | [CWE-787](https://github.com/advisories?query=cwe%3A787)     |
+| [CVE-2023-48316](https://www.cve.org/CVERecord?id=CVE-2023-48316) | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-3cmf-r288-xhwq) |         |       |      | [CWE-787](https://github.com/advisories?query=cwe%3A787) [CWE-825](https://github.com/advisories?query=cwe%3A825) |
+| [CVE-2023-48315](https://www.cve.org/CVERecord?id=CVE-2023-48315) | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-rj6h-jjg2-7gf3) |         |       |      | [CWE-787](https://github.com/advisories?query=cwe%3A787) [CWE-825](https://github.com/advisories?query=cwe%3A825) |
 
 ### filex
 
