@@ -45,10 +45,9 @@ Microsoft Azure Cloud Services
 
 ### filex
 
-| CVE            | Detail                                                       | Version | Patch | POC  | Type    |
-| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | ------- |
-| CVE-2022-39343 | [githubsecurity](https://github.com/azure-rtos/filex/security/advisories/GHSA-8jqf-wjhq-4w9f) |         |       |      | CWE-120 |
-|                |                                                              |         |       |      |         |
+| CVE                                                          | Detail                                                       | Version | Patch | POC  | Type                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ----- | ---- | -------------------------------------------------------- |
+| [CVE-2022-39343](https://www.cve.org/CVERecord?id=CVE-2022-39343) | [githubsecurity](https://github.com/azure-rtos/filex/security/advisories/GHSA-8jqf-wjhq-4w9f) |         |       |      | [CWE-120](https://github.com/advisories?query=cwe%3A120) |
 
 ### RTOS
 
