@@ -21,4 +21,5 @@ Microsoft Azure Cloud Services
 | CVE-2023-48697 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-p2p9-wp2q-wjv4) |         |       |      | CWE-476 CWE-825 CWE-787                                      |
 | CVE-2023-48696 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-h733-98hq-f884) |         |       |      | CWE-825 CWE-754                                              |
 | CVE-2023-48695 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-mwj9-rpph-v8wc) |         |       |      | CWE-787                                                      |
+| CVE-2023-48694 | [githubsecurity](https://github.com/eclipse-threadx/usbx/security/advisories/GHSA-qjw8-7w86-44qj) |         |       |      | CWE-825 CWE-843                                              |
 
