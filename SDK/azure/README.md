@@ -30,3 +30,10 @@ Microsoft Azure Cloud Services
 | CVE-2023-48693 | [githubsecurity](https://github.com/eclipse-threadx/threadx/security/advisories/GHSA-p7w6-62rq-vrf9) |         |       |      | CWE-20 |
 |                |                                                              |         |       |      |        |
 
+### NetX Duo
+
+| CVE            | Detail                                                       | Version | Patch | POC  | Type            |
+| -------------- | ------------------------------------------------------------ | ------- | ----- | ---- | --------------- |
+| CVE-2023-48692 | [githubsecurity](https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-m2rx-243p-9w64) |         |       |      | CWE-787 CWE-825 |
+|                |                                                              |         |       |      |                 |
+
