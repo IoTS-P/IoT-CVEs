@@ -58,4 +58,5 @@ Microsoft Azure Cloud Services
 | CVE-2021-42323 | [microsoft](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-42323) |         |       |      |         |
 | CVE-2021-42304 | [microsoft](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-42304) |         |       |      | CWE-269 |
 | CVE-2021-42303 | [microsoft](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-42303) |         |       |      | CWE-269 |
+| CVE-2021-42302 | [microsoft](https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-42302) |         |       |      | CWE-269 |
 
